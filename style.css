@@ -9,11 +9,16 @@
     margin: 4px 2px;
     cursor: pointer;
     /* color: black; */
-    background-color: blue;
+    background-color: pink;
 }
 .box{
 position: relative;
     padding: 10px;
     margin: 0;
     text-align: center;
+}
+
+.container{
+    text-align: center;
+    margin-top: 100px;
 }
